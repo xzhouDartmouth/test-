@@ -1,0 +1,1 @@
+{"head":"<title>simple-todos</title>","body":"","js":"\nTemplate.body.addContent((function() {\n  var view = this;\n  return HTML.Raw(\"<h1>Hello World</h1>\");\n}));\nMeteor.startup(Template.body.renderToDocument);\n","bodyAttrs":{}}
